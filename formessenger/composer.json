@@ -1,0 +1,11 @@
+{
+    "name": "bot/formessenger",
+    "description": "Facebook Messenger Bot",
+    "authors": [
+        {
+            "name": "Can Avcı",
+            "email": "canavci2016@gmail.com"
+        }
+    ],
+    "require": {}
+}
